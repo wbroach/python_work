@@ -1,0 +1,28 @@
+cd desktop
+cd CSCI1301
+cd ParseTheTweet	
+cd bin
+echo #typ offer; #det free essential supplies 4 evacs pets.; #loc 2323 55th st, boulder; #lat 40.022; #lng -105.226;| Java ParseTheTweet
+
+
+echo #typ structure; #det damaged; #loc 224 left fork road (shed) (house okay); #lat 40.029854; #lng -105.391055;| Java ParseTheTweet
+
+
+echo #typ wind; #det just switched, and now the smoke is thick around our house; #loc 40.352,-105.2045; #lat 40.3523; #lng -105.2045;| Java ParseTheTweet
+
+echo #typ fire; #det firefighter sees a glow; #loc sw from west coach rd toward sunshine canyon; #lat 40.0515; #lng -105.332;| Java ParseTheTweet
+
+echo #typ structure; #det damaged; #loc unknown number, by 204 gold run road; #lat 40.050904; #lng -105.373941;| Java ParseTheTweet
+
+echo #typ evac; #det overflow shltr 4 evacuees at; #loc walt clark middle school, loveland; #lat 40.383; #lng -105.113;| Java ParseTheTweet
+
+echo #typ no fire; #det activity; #loc west of the pinewood res dam; #lat 40.367; #lng -105.292;| Java ParseTheTweet
+
+echo #typ photo; #det local wild horse; #loc wild horse; #lat 40.052304; #lng -105.319374;| Java ParseTheTweet
+
+echo #typ smoke; #det its raining ash; #loc windsor, co; #lat 40.499812; #lng -105.012075;| Java ParseTheTweet
+
+
+
+
+

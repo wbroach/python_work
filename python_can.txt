@@ -1,0 +1,11 @@
+In Python you can create variables.
+In Python you can create lists. 
+In Python you can loop through lists.
+In Python you can create dictionaries.
+In Python you can also loop through the keys and values of a dictionary.
+In Python you can create functions. 
+In Python you can create classes, which enable object-oriented programming.
+In Python you can add functions to a class. These are called methods. 
+In Python you can read files. You can also import files/modules where you have other Python code saved. 
+
+
