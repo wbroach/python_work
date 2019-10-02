@@ -68,15 +68,15 @@ def make_reply_hot(botname, username, subreddit, search_term, reply, posts=200,
 
 
 # Sample main below
-bot_info = {'dippingtobacco' : 
+bot_info = {'athens' : 
                 {'bot name' : 'bot1', 
-                'search term' : 'peach', 
-                'reply term' : "Skoal. Fuckin'. PEACH!!!!!"
+                'search term' : 'hate', 
+                'reply term' : "I love Athens!!!!"
                 },
-            'SKOALFUCKINPEACH' :
+            'UGA' :
                 {'bot name' : 'bot1', 
-                'search term' : 'peach', 
-                'reply term' : "Skoal. Fuckin'. PEACH!!!!!"
+                'search term' : 'hate', 
+                'reply term' : "I love UGA!!!!!"
                 }
            }
            
